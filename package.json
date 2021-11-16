@@ -1,5 +1,5 @@
 {
-  "name": "spur-js",
+  "name": "@exlrt/spur-js",
   "version": "0.0.1",
   "description": "A JavaScript Library for connecting single-page applications to RWS Tridion 9.5 and above",
   "main": "index.js",
